@@ -1,7 +1,11 @@
 aid: sanderson-farms
-url: https://raw.githubusercontent.com/api-evangelist/sanderson-farms/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/sanderson-farms/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.sanderson-farms.com
+description: >-
+  Sanderson Farms was the third-largest poultry producer in the United States before
+  being acquired by a joint venture of Cargill and Continental Grain.
