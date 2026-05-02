@@ -1,0 +1,132 @@
+name: Sanderson Farms Vocabulary
+description: >-
+  Vocabulary and taxonomy for Sanderson Farms (now Wayne-Sanderson Farms), the
+  third-largest US poultry producer acquired by Cargill and Continental Grain in 2022.
+  Documents key terminology from the poultry processing, food production, agricultural
+  supply chain, and food safety domains relevant to understanding the company's
+  operations. No public developer APIs are available.
+version: '1.0'
+created: '2026-05-02'
+modified: '2026-05-02'
+url: https://waynesandersonfarms.com/
+
+terms:
+  - term: Poultry Processing
+    definition: >-
+      The industrial process of converting live poultry (broiler chickens) into
+      packaged food products including whole birds, fresh parts, marinated products,
+      and prepared foods. Sanderson Farms operated 16 processing complexes
+      processing over 13 million chickens per week.
+    tags:
+      - Food Production
+      - Operations
+
+  - term: Broiler
+    definition: >-
+      A chicken raised specifically for meat production, typically reaching market
+      weight (5-6 lbs) in 6-7 weeks. Sanderson Farms was a vertically integrated
+      broiler producer controlling breeding, hatching, growing, and processing.
+    tags:
+      - Agriculture
+      - Poultry
+
+  - term: Vertically Integrated Operations
+    definition: >-
+      A business model where a company controls multiple stages of the production
+      supply chain. Sanderson Farms' vertical integration included breeder farms,
+      hatcheries, contract grow-out farms, feed mills, and processing facilities.
+    tags:
+      - Business Model
+      - Supply Chain
+
+  - term: Contract Grower
+    definition: >-
+      An independent farmer who raises broiler chickens under contract for Sanderson
+      Farms. The company provided chicks, feed, and technical support; growers
+      provided facilities and labor. Thousands of contract growers supported
+      Sanderson Farms' production.
+    tags:
+      - Agriculture
+      - Supply Chain
+
+  - term: Food Safety
+    definition: >-
+      USDA FSIS inspection and food safety programs governing poultry processing.
+      Sanderson Farms operations were subject to continuous USDA inspection and
+      participated in USDA's Process Verified Program (PVP) for production claims.
+    tags:
+      - Compliance
+      - Food Safety
+      - Regulation
+
+  - term: USDA Process Verified Program (PVP)
+    definition: >-
+      A USDA Agricultural Marketing Service program verifying poultry producer
+      marketing claims (e.g., "no antibiotics ever", "raised without hormones").
+      Sanderson Farms participated to support labeling claims.
+    synonyms:
+      - PVP
+      - Process Verified Program
+    tags:
+      - Compliance
+      - Food Safety
+
+  - term: Wayne-Sanderson Farms
+    definition: >-
+      The company formed in 2022 through the merger of Sanderson Farms and Wayne
+      Farms, owned by a joint venture of Cargill and Continental Grain Company.
+      Wayne-Sanderson Farms became the third-largest US poultry producer.
+    tags:
+      - Corporate History
+      - Successor
+
+  - term: Feed Mill
+    definition: >-
+      A Sanderson Farms-operated facility producing proprietary animal feed
+      formulations for broiler chickens. Feed composition is a key determinant
+      of bird health, growth rate, and meat quality.
+    tags:
+      - Agriculture
+      - Operations
+
+  - term: Hatchery
+    definition: >-
+      A Sanderson Farms-operated facility that incubates fertile eggs to produce
+      day-old chicks distributed to contract growers. Part of the vertically
+      integrated supply chain.
+    tags:
+      - Agriculture
+      - Operations
+
+  - term: Processing Complex
+    definition: >-
+      A Sanderson Farms production facility combining a live haul receiving area,
+      slaughter line, further processing, packaging, and cold storage. Sanderson
+      Farms operated complexes in Mississippi, Texas, Georgia, North Carolina,
+      Louisiana, Missouri, and Kentucky.
+    tags:
+      - Operations
+      - Facilities
+
+categories:
+  - name: Production Operations
+    terms:
+      - Poultry Processing
+      - Broiler
+      - Processing Complex
+      - Feed Mill
+      - Hatchery
+
+  - name: Supply Chain
+    terms:
+      - Vertically Integrated Operations
+      - Contract Grower
+
+  - name: Food Safety and Compliance
+    terms:
+      - Food Safety
+      - USDA Process Verified Program (PVP)
+
+  - name: Corporate History
+    terms:
+      - Wayne-Sanderson Farms
