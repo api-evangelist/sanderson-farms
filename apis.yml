@@ -20,6 +20,8 @@ created: '2025-01-01'
 modified: '2026-05-02'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/sanderson-farms
   - type: Website
     url: https://www.sanderson-farms.com
     title: Sanderson Farms Website
