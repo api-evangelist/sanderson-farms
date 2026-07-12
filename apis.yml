@@ -20,6 +20,8 @@ created: '2025-01-01'
 modified: '2026-05-02'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/sanderson-farms-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/sanderson-farms
   - type: Website
