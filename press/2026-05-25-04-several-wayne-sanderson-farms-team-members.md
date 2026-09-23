@@ -1,7 +1,9 @@
 ---
 title: Several Wayne-Sanderson Farms team members ...
 url: https://www.facebook.com/WayneSandersonFarms/posts/several-wayne-sanderson-farms-team-members-recently-attended-the-2025-us-poultry/1186904313466735/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Sanderson Farms" press release artificial intelligence'
 position: 4
 source: serpapi-google

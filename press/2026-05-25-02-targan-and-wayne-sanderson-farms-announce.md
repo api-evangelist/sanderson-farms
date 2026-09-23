@@ -1,7 +1,9 @@
 ---
 title: TARGAN and Wayne-Sanderson Farms Announce ...
 url: https://www.targan.com/news/targan-and-wayne-sanderson-farms-announce-pioneering-commercial-collaboration
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Sanderson Farms" press release artificial intelligence'
 position: 2
 source: serpapi-google

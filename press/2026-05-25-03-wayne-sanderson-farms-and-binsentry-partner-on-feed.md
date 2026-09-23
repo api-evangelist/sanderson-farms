@@ -1,7 +1,9 @@
 ---
 title: Wayne-Sanderson Farms and BinSentry partner on feed ...
 url: https://www.feedstuffs.com/agribusiness-news/wayne-sanderson-farms-and-binsentry-partner-on-feed-management
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Sanderson Farms" press release artificial intelligence'
 position: 3
 source: serpapi-google
